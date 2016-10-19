@@ -17,7 +17,7 @@ Kao što ćete vidjeti iz odgovora na pitanja u nastavku, naše je najvažnije n
 * ako je riječ o *latinskoj* prijedložnoj sintagmi - npr. *in suis studiis*: "svojih nauka", povezujem li prijedlog s imenicom ili sa zamjenicom, ili ga uopće ne označavam?
     * Prijedložni izraz, samo obratno: in + studiis = nauka, suis = svojih
 * **Hrvatski povratni glagoli**: uz što se povezuje povratna zamjenica? Sintagma za sintagmu. Primjeri:
-    * *exstitissent*: "ističe se" -- extitissent = ističe + se
+    * *exstitissent*: "ističe se" -- exstitissent = ističe + se
     * *visum est*: "činilo se (da...)" -- visum + est = čini + se
     * *te converteris*: "obratio si se" -- te + converteris = obratio + si + se
 * **Morfološka dvojnost**: 'viri omnium eloquentissimi' prevedeno je 'najrječitiji od svih ljudi' -- u hrvatskom imamo genitiv, ali se to ne vidi na prvi pogled. Ako želimo preciznost, u nekom će trenutku biti dobro uvesti morfološke oznake, barem u dvojbenim slučajevima.
