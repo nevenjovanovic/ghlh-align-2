@@ -14,6 +14,7 @@ Student aligners: TBA
 ## Croatian documentation
 
 + [Načela povezivanja](ghlh-nacela.md)
++ [Česta pitanja](ghlh-faq.md)
 
 ## Technology
 
