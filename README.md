@@ -15,6 +15,8 @@ Student aligners: TBA
 
 + [Načela povezivanja](ghlh-nacela.md)
 + [Česta pitanja](ghlh-faq.md)
++ [Rad u okruženju Perseids](http://solr.ffzg.hr/dokuwiki/doku.php/z:ghlh-perseids)
++ [Recenziranje u okruženju Perseids](http://sites.tufts.edu/perseids/instructions/reviewing/community-board-review-process/) (engleski)
 
 ## Technology
 
