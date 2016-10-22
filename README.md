@@ -7,20 +7,22 @@ Greek-Croatian and Latin-Croatian aligned corpus, version 2
 We are aligning a large number of sentences from Greek and Latin texts with their Croatian translations. We are experimenting with translations: some are literal, and prepared especially for the GHLH project, the other versions are translations published in books. At the same time, we are thinking about [rules and guidelines for alignment](guidelines-alignment-ghlh.md) of text and translation.
 
 ## The team
-[Neven Jovanović](http://orcid.org/0000-0002-9119-399X) and [Petra Šoštarić](http://viaf.org/viaf/305794807), Department of Classical Philology, Faculty of Humanities and Social Sciences, University of Zagreb, Croatia
+[Neven Jovanović](http://orcid.org/0000-0002-9119-399X) (NJ) and [Petra Šoštarić](http://viaf.org/viaf/305794807) (PS), Department of Classical Philology, Faculty of Humanities and Social Sciences, University of Zagreb, Croatia
 
 Student aligners and verses of the Iliad they are aligning:
 
-+ Beata Kovačević - Iliad 2, 1-400
-+ Veronika Vasilić - Iliad 7
-+ Barbara Moštak - Iliad 8, 1-400
-+ Alka Lončar - Iliad 14, 1-400
-+ Dajana Zlović - Iliad 16, 1-430
-+ Anđela Džoja - Iliad 16, 434-865
-+ Ana Katarina Gorički - Iliad 21, 1-402
++ Beata Kovačević (BK) - Iliad 2, 1-400
++ Veronika Vasilić (VV) - Iliad 7
++ Barbara Moštak (BM) - Iliad 8, 1-400
++ Alka Lončar (AL) - Iliad 14, 1-400
++ Dajana Zlović (DZ) - Iliad 16, 1-430
++ Anđela Džoja (AD) - Iliad 16, 434-865
++ Ana Katarina Gorički (AKG) - Iliad 21, 1-402
 
 ## Croatian documentation
 
++ [Popis tekstova i zadataka](ghlh-popis.md)
++ [Plan rada](https://github.com/nevenjovanovic/ghlh-align-2/projects/1)
 + [Primjeri doslovnog prijevoda](ghlh-prijevod-primjeri.md)
 + [Načela povezivanja](ghlh-nacela.md)
 + [Česta pitanja](ghlh-faq.md)
