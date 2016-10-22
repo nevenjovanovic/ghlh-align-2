@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc xml:id="lukijan-fg">
+         <titleStmt>
+            <title>Lukijanova skupština bogova (1871), elektronska verzija</title>
+            <author>
+               <ref xml:lang="hr" target="urn:cts:greekLit:tlg0062" type="perseuscatalog">Lukijan</ref>
+            </author>
+            <editor role="trl">
+               <ref xml:lang="hr">Grgurević, Frano</ref>
+            </editor>
+            <respStmt>
+               <resp>Editionem electronicam praeparavit</resp>
+               <name xml:id="NJ"><ref type="viaf" target="6913774">Neven Jovanović</ref></name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitalizat prijevoda u javnoj domeni (obj. 1871).</edition>
+         </editionStmt>
+         <extent ana="C">Mg:C riječi 2358</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+               projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+               Hrvatska.  <date>Srpnja 2014.</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               Lucianus; F[rano] G[rgurević]: "Skupština bogova". Dubrovnik, zabavnik štionice dubrovačke za godinu 1870, Dubrovnik: Pretner, 1871, s. 151–158.
+               <relatedItem type="internet">
+                  <ref type="gbs" target="http://books.google.hr/books?id=JAYEAAAAYAAJ">Digitalizat GBS.</ref>
+               </relatedItem>
+            </bibl>
+            
+         </sourceDesc>
+      </fileDesc>
+     
+      <revisionDesc>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>2013-02-16</date>
+            Početna verzija
+         </change>
+      </revisionDesc>
+  </teiHeader>
+   <text corresp="http://data.perseus.org/texts/urn:cts:greekLit:tlg0062.tlg050">
+      <body>
+         <div xml:lang="hr" corresp="urn:cts:greekLit:tlg0062.tlg050">
+            
+            
+<head>            LUKIJANOVA SKUPŠTINA BOGOVA</head>
+            
+<head type="subtitle">            S grčkoga preveo i po koju opasku nadodao F. G.</head>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:1" n="1"/>
+            <sp>
+               <speaker>Jupiter.</speaker>
+               <p><seg corresp="tlg0062.tlg050.perseus-grc1:1">Nemojte veće mrmljati, bogovi, ni zbijajući se po kutima šaptati megju sobom, srditi što mnozi nedostojni, učestvuju s nama u gozbu, nego budući bila dozvoljena skupština <pb n="152"/> o tome, neka svak reče javno što mu se svigja i neka tuži.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:1">A ti, Merkuriju, telali po običaju.</seg></p></sp>
+            
+<sp>
+   <speaker>Merkurij. </speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:1">Slušaj, muči.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:1">Ko hoće da besjedi od bogova vrsitelja <ref>(a)</ref> kojim dolikuje?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:1">pretres je o tugjincima i inostrancima.</seg></p></sp>
+            
+<sp>
+   <speaker>Momo<ref>(b)</ref>.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:1">Ja Momo, Jupiteru, kad bi mi ti dopustio da govorim.</seg></p></sp>
+            
+<sp>
+   <speaker>Jupiter. </speaker>
+   <p><seg corresp="tlg0062.tlg050.perseus-grc1:1">Glas telalov već dopušta, tako da neće biti nikakve potrebe od mene.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:2" n="2"/>
+<sp>
+   <speaker>Momo. </speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:2">Govorim dakle da neki od nas čudnovato rade, što im nije dosta da su sami od ljudi postali bogovi, nego, ako i svoje udvorice i sluge ne ispenju na jednaku čast s nama, misle da se nije ništa veliko ni krasno uradilo.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:2">Ištem, Jupiteru, da mi dopustiš da slobodno govorim; zašto drukčije ne bih ni mogao, jer svi me znadu kako sam slobodan u jeziku, i kako ne bih premučao da se išta dogodi što nije lijepo; jer ja oprovrgnem svaku i govorim javno što mi se čini ne strašeći se nikoga, ni skrivajući svoje mnijenje od srama, tako da se množini činim dosadan i klevetnik po naravi, i ona me nazivlje nekakvim javnim tužiteljem.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:2">Ipak budući da je dopušteno i telal je telalio, i ti mi, Jupiteru, ne kratiš da slobodno govorim, govoriću ne tajeći ništa.</seg> 
+   <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:3" n="3"/>  
+      <seg corresp="tlg0062.tlg050.perseus-grc1:3">Mnozi doisto, rekoh, nezadovoljni što sami učestvuju u isti zbor s nama i goste se jednako, premda su napola umrli, još i svoje poslužitelje i štovatelje uzdigoše na nebo i tu ih upisaše, i sada jednako žderu priloge i učesnici su žrtava, niti nam plaćaju inostranarine <ref>(c)</ref>.</seg></p></sp>
+            
+<sp>
+   <speaker>Jupiter. </speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:3">Nemoj otajno, Momo, nego bistro i očito reci prilagajuć i ime: jer si sada turio riječ na polje, pa mnozi sumnje da se ona odnosi čas na jednoga, čas na drugoga;</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:3">a slobodni govornik treba da izgovori sve bez zatezanja.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:4" n="4"/>
+            <sp>
+               <speaker>Momo. </speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:4">Aferim, Jupiteru, što me još i nukuješ na bezobzirnost; ti u tome postupaš baš kraljevski i veledušno, pa evo <pb n="153"/> reći ću i ime.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:4">Evo tvoj Bako najblagorodniji, polučovjek, pa ni Grk po materi, nego sin ćeri Kadma(d), nekakva putnika Feničanina, pošto je stekao neumrlost, ne napominjem kakav je sam, ni pantljiku, ni pijanstvo, ni hod; jer svi, cijenim, vidite kako je ženske naravi, sumahnit, zadišuć od zore vinom; dali još cijelo pleme privuče k nama, te dovede kolo i postavi bogovima Pana, Silena i Satire, ponajviše divljake i kozare, ljude skakutaoce i čudnovata oblika, od kojih jedan rozima okićen i za polovicu doli priličan kozi, zarašten u bradi, malo se razlikuje od jarca, a drugi starac ćelav, zakučasta nosa, jaše navadno na tovaru, Lidijanin rodom, a Satiri su rtastijeh uši, ćelavi i oni, rogati, kakvi kozlićima stoprv okoćenijem niču rozi, nekakvi Frigijani rodom: imaju i repove svikolici.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:4">Vidite li kakve nam bogove stvara ovaj plemić?</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:5" n="5"/> <seg corresp="tlg0062.tlg050.perseus-grc1:5">Pak se čudimo gdje nas preziru ljudi videći ovako smiješne i čudnovate bogove?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:5">A ostavljam što još dvije žene pripe, jednu ljubovnicu svoju, Arijadnu, čiji vijenac nadometnu skupu zvijezda, a drugu ćer Ikarija težaka.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:5">A što je najsmješnije, bogovi, i kučka Erigonina pripe, da se ne bi ucvilila mlada kad ne bi imala na nebu onoga vjernoga i ljubljenoga kučića.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:5">Ne čini vam se to obijest, djelo od pijančine i rug?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:5">A čujte sad i druge.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:6" n="6"/>
+<sp>
+   <speaker>Jupiter.</speaker>
+   <p><seg corresp="tlg0062.tlg050.perseus-grc1:6">Nemoj, Momo, govoriti ništa ni o Eskulapiju, ni o Herkulu, jer vidim kud ideš besjedom; zašto onaj liječi i ozdravljiva od nemoći, i <q>vrijedi za mnoge druge</q><ref>(e)</ref>, a Herkul, sin moj, nije malo posala isposlovao da kupi neumrlost; zato njih nemoj tužiti.</seg></p></sp>
+            
+<sp>
+   <speaker>Momo.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:6">Mučaću, Jupiteru, radi tebe, premda bih imao mnogo stvari da rečem.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:6">Ako išta drugo, imaju jošter znakove ognja <ref>(f)</ref>. </seg><seg corresp="tlg0062.tlg050.perseus-grc1:6">A da mi je prosto istom slobodom govoriti i na samoga tebe, imao bih mnogo da rečem.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:7" n="7"/>
+<sp>
+   <speaker>Jupiter.</speaker><p>Zaista na mene prosto ti je najviše. Da li bi ti tužio i mene kao inostrana?</p></sp>
+            <pb n="154"/>
+            
+            
+            <sp>
+               <speaker>Momo.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:7">U Kreti nije to samo čuti, nego još nešto o tebi govore i kažu grob. A ja ne vjerujem ni njima ni Egijanima u Ahaji, koji tvrde da si ti kopile. Nego što najviše cijenim da treba ukoriti, to ću reći:</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:7">jer si ti stvorio početak takijeh bezakonja i uzrok da se naš zbor izopači sastajući se sa ženama i i slazeći u njih čas u jednoj čas u drugoj prilici, tako da smo se mi strašili da te ko ne uhvati i zakolje kad god si bio bik, ili da te kakav zlatar ne pretopi kad si bio zlato, te da nam mješte Jupitera postaneš ogrljaj, ili grivna, ili naušnica.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:7">Jok! pače si napunio nebo ovijem polubogovima; drukčije ne bih umio reći.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:7">A što je najsmješnije jest ono kad kogod iznenada čuje da Herkul bi postavljen bogom, a Evristej, koji mu je zapovijedao, umrije, i blizu su hram Herkula službenika i greb Evristeja njegova gospodara; takogjer u Tebi Bako je bog, a njegovi su rogjaci Pentej i Akteon i Learho najnesretniji od svijeh ljudi.</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:8" n="8"/> <seg corresp="tlg0062.tlg050.perseus-grc1:8">I otkad ti jednom, Jupiteru, otvori ovakijem vrata i obrati se ženama, svi su te nasljedovali, i ne samo muškarci, nego, što je najsramotnije, i boginje.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:8">Jer ko ne zna za Anhiza i Titona i Endimiona i Jasiona i ostale?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:8">Zato hoću da ovo ostavim, jer bi dugo bilo oprovrgavanje.</seg></p></sp>
+            
+<sp>
+   <speaker>Jupiter.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:8">Nemoj štogod reći, Momo, o Ganimedu, jer ću se najedit ako uvrijediš momka grdeći mu rod.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:9" n="9"/>
+            <sp>
+               <speaker>Momo.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:9">Dakle da ne govorim ni o orlu, zašto je i on na nebu, sjedeći na kraljevskomu žezlu, i samo što se ne gnjezdi u tebe na glavi, bog i on po prilici?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:9">Hoćemo li i njega ostaviti radi Ganimeda?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:9">Ali Atis, Jupiteru, i Koribanat i Savazij<ref>(g)</ref> otkle su se dokoturali nama, ili onaj Mitras Medijanac u dolami i u saruku, koji ne zna grčki beknut tako da ne razumije ni da mu kogod napije na zdravlje?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:9">Zato Skićani i Gećani videći ovake neprilike, ne mare nam nimalo za zdravlje, nego sami obožavaju i uzimlju u bogove koga ih volja, na isti način kako i Zamolksis, rob, bi upisan nekako kradimice.</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:10" n="10"/> <seg corresp="tlg0062.tlg050.perseus-grc1:10">Ipak sve to, bogovi, nije preko načina.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:10">Ali ti, pasji obraze i na indijansku <pb n="155"/> odjeveni Misiranine, ko si ti, delijo, kako hoćeš da budeš bog lajući?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:10">A što hoće ovi šaroviti bik Memfijanac, koji je štovan i vrača i ima proroke?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:10">Sramim se pak spomenuti ibise i majmune i jarce i druge stvore mnogo smješnije, dovučene ne znam kako iz Misira na nebo, koje vi, bogovi, kako podnosite da ih vidite štovane jednako ili još više nego vas?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:10">Ili ti, Jupiteru, kako trpiš kad ti izniknu ovnujski rozi?</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:11" n="11"/>
+            <sp><speaker>Jupiter.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:11">Uprav je ružno to što govoriš o Misiranima; sa svijem tijem, Momo, to su u njih ponajviše otajstva, pa ne treba da se ruga ko nije posvećen.</seg></p></sp>
+            
+            <sp><speaker>Momo.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:11">Baš nam treba otajstava, Jupiteru, da znamo da su bogovi bogovi, a psoglavi da su psoglavi.</seg></p></sp>
+            
+            <sp><speaker>Jupiter.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:11">Ostavi, govorim ti, to o Misiranima, jer ćemo o tomu drugi put u zgodni čas vodit istragu.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:11">Nego ti kaži druge.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:12" n="12"/>
+            <sp><speaker>Momo.</speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:12">Trofonija, Jupiteru, i što me najviše davi, Amfiloha, koji premda je sin čovjeka prokleta, krvnika svoje matere, prorokuje gospar u Ciliciji, lažući ponajviše i čarajući za dva obula.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:12">Zato baš nijesi veće ti, Apolo, na glasu, nego jurve svaki kam i svaki otar proriče, koji god bude obliven uljem i okićen vijencima i ima čovjeka čarobnika, kakvijeh ima mnogo.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:12">Već i kip Polidamanta rvaoca liječi grozničavce u Olimpiji, kakogjer kip Teagenov u Tasu, a Hektoru žrtvuju u Troji, a Protesilaju na drugoj strani u Hersonesu.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:12">I otkad nas ima toliko, uzmnoži se vjerolomstvo i crkvoderina, i u opće su nas ljudi prezreli i dobro čine.</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:13" n="13"/> <seg corresp="tlg0062.tlg050.perseus-grc1:13">I to o nezakonitijem i o nametnutijem.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:13">Dapače čujući mnoga tugja imena stvora kojijeh u nas nema i što ne mogu nikako da opstoje, ja se i na njih, Jupiteru, grohotom smijem.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:13">Jer gdje je ona proslavljena krepost i narav i udes i sreća, imena bez bitnosti i isprazna, izmišljena od ljudi benastijeh i od mudroslovaca?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:13">I premda su ove stvari iznenada izmišljene, ipak su tako zavele nesvijesne, da niko neće ni da žrtvuje nama, znajući, da bi baš i na tisuće žrtava prinio, da <pb n="156"/> će svakako sreća izvršiti sudbinu i ono što iz početka bi svakomu osugjeno.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:13">Dragovoljno bih te dakle pitao, Jupiteru, vidje li ti igdje krepost, ili narav, ili udes?</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:13">Jer znam da to čuješ vazda i ti u pretresima mudroslovaca, nemoj da si gluh tako da ih ne čuješ gdje viču.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:13">Zasve da imam još mnogo da rečem, dospjeću govor; vidim dakako mnoge gdje se kose na moju besjedu i gdje mi zvižde, osobito one kojijeh se prihitila <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:14" n="14"/> sloboda mojijeh riječi.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:14">Na svrhu ću baš, ako hoćeš, Jupiteru, pročitati odluku o ovomu jur napisanu.</seg></p></sp>
+            
+<sp>
+   <speaker>Jupiter. </speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:14">Čitaj, jer nijesi svaku nerazborito tužio,</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:14">a treba veći dio od toga zaustaviti da se više ne dogagja.</seg></p></sp>
+            
+<sp>
+   <speaker>Momo. Odluka.</speaker>
+   <p><seg corresp="tlg0062.tlg050.perseus-grc1:14">Dobrom srećom.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:14">Budući se skupila zakonita skupština sedmi dan prve desetine mjesečne, zapovijedaše Jupiter a predsijedaše Neptun, nadgledaše Apolo, pisar bijaše Momo sin Noći, a San reče svoje mnijenje.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:14">Budući mnogi inostranci, ne samo Grci, nego i inozemci, koji nijesu nipošto dostojni da dijele s nama gragjanstvo, napunili nebo pošto biše upisani ne znam kako jer se mislilo da su bogovi, toliko da je blagovalište puno zabunjene vreve, nekakvijeh mnogojezičnijeh ljudi navrvljelijeh, i da je nestalo ambrosije i nektara, tako da mjerica dohodi minu<ref>(h)</ref> radi mnoštva pijućijeh, i budući ovi od obijesti potisli stare i prave bogove, i počastili sebe predsijedanjem proti svakomu običaju starinskomu, te hoće da ih časte na zemlji više od drugijeh,</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:15" n="15"/> <seg corresp="tlg0062.tlg050.perseus-grc1:15">zaključi vijeće i puk da se sazove skupština na Olimp o suncovratu zimskomu, i da se izabere sedam bogova vršitelja za rasudnike, tri iz staroga vijeća pod Saturnom, a četiri od dvanaestorice, i megju njima Jupitera. I neka ti rasudnici sjedu zaklevši se zakonito Stigom<ref>(i)</ref>, a Merkurij telaleć neka skupi <pb n="157"/> svijeh koji god žele da budu članovi zbora, a oni neka dogju sa svjedocima zakletijem i s dokazima svoga roda.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:15">Pa će oni doći jedan po jedan, a rasudnici, iskušavajući, ili će ih proglasiti bogovima, ili poslati na njihove grobnice i na djedinske rake.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:15">A da se nagje da je koji od prostačkijeh i jednom isključenijeh od rasudnika stavio nogu na nebo, neka propane u pakao.</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:16" n="16"/> <seg corresp="tlg0062.tlg050.perseus-grc1:16">I neka se svaki bavi svojim poslom: niti će Minerva liječiti, ni Eskulapij proricati, ni Apolo sam toliko stvari činiti, nego će izabrati jedno, te će biti ili vračar, ili guslar, ili liječnik.</seg> <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:17" n="17"/> <seg corresp="tlg0062.tlg050.perseus-grc1:17">A mudroslovcima da se navijesti da ne kuju prazna imena i da ne brbljaju <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:18" n="18"/> o stvarima što ne znadu.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:18">A koji god su bili jur počašćeni hramovima ili žrtvama, da se njihovi kipovi obore, a da se postave ili Jupiterovi, ili Junonini, ili Apolonovi, ili čigovi od ostalijeh, a onijem da grad načini grob i postavi stup mjesto otara.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:18">Toli ne posluša ko na glas telalov, te ne ushtije doći u rasudnikâ, neka ga osude s ogluhe.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:18">Ovo je naša odluka.</seg></p></sp>
+            <milestone unit="chapter" corresp="http://data.perseus.org/citations/urn:cts:greekLit:tlg0062.tlg050.perseus-grc1:19" n="19"/>
+<sp>
+   <speaker>Jupiter. </speaker><p><seg corresp="tlg0062.tlg050.perseus-grc1:19">Veoma pravo, Momo, i komu se čini neka podigne ruku; pače neka tako bude, jer znam da će mnozi biti što neće podignuti ruke.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:19">Nego sada hajdete; a kad Merkurij zatelali, dogjite i donesite svikolici očevidne biljege i izvjesne dokaze, očino ime i majčino, i otkle i kako koji postade bog, općinu i pleme.</seg> <seg corresp="tlg0062.tlg050.perseus-grc1:19">Ne prikaže li to kogod, neće rasudnici hajati nimalo ako koji ima veliki hram na zemlji, i ako ljudi misle da je on bog.</seg></p></sp>
+            
+            <div><head>Opaske.</head>
+            
+<note>            a) Vršitelji zovu se mogućniji bogovi koji molitve ljucke uslišuju i svaku stvar na svijetu vrše.</note>
+            <pb n="158"/>
+<note>            b) Momos znači grčki: ukor ili poruga. Često to bude poosobljeno, te postaje Bog od ukora i poruge, sin Noći.</note>
+            
+<note>            c) Inostranarina odgovara onoj grčkoj riječi kojom se zvaše novac što moraše plaćati svaki inostranin okućen u kakvomu mjestu u Grčkoj; n. pr. u Atini plaćahu inostranci na godinu 12 drahma, a drahma je nosila koliko i naša pleta.</note>
+            
+<note>            d) Da rečeš unuk ne bi se znalo jeli mu Kadmo bio djed po ocu ili po materi, a u grčkomu tekstu stoji riječ koja znači ovo zadnje, i to je ovdje i potreba, a naš jezik nema takove riječi premda je i on vrlo bogat u imenima rodbine.</note>
+            
+            <note>e) Šaljivo meće Lukijan u Jupiterova usta riječi iz Homerove Ilijade pjev. XI. st. 514 gdje Idomenej govoreći o liječniku Mahaonu kaže da jedan liječnik vrijedi koliko mnogo drugih ljudi.</note>
+            
+            <note>f) Herkul mahnit užegao se sam na brdu Eti u Tesaliji, a Eskulapij, budući se na njega tužio Pluton Jupiteru da je on svojim ljekarstvom dopro do tole da uskrsnjiva mrtve, bi od Jupitera satrt munjom.</note>
+            
+<note>            g) Sva su ova trojica iz Frigije: prvi, Atis, ljubovnik Cibelin, a druga dva njezini sinovi.</note>
+            
+<note>            h) Mina nosi 100 drahma, iliti stotinu našijeh pleta.</note>
+            
+<note>            i) Stige je rijeka na drugomu svijetu. Njom se zaklinjahu bogovi.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

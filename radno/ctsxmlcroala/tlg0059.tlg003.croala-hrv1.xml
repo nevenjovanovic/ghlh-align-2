@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc xml:id="tlg0059.tlg003.perseus-hrv1.">
+            <titleStmt>
+                <title>Kriton, elektronska verzija</title>
+                <author><ref target="urn:cts:greekLit:tlg0059" type="perseuscatalog">Platon</ref></author>
+                <editor role="trl"><ref target="26909978" type="viaf">Senc, Stjepan</ref></editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Prema digitalizatu izvornog tiskanog izdanja.</edition>
+            </editionStmt>
+            <extent ana="C">Mg:C riječi 5401</extent>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na
+                    Filozofskom fakultetu Sveučilišta u Zagrebu, Hrvatska. <date>Srpnja 2014.</date>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Primjeri iz grčke književnosti u hrvatskom prijevodu / priredio Stjepan Senc.
+                    - 3. prerađeno izd. / priredio Stjepan Senc - Zagreb : Naklada Kr. hrv.-slav.
+                    zemaljske vlade, 1920. - [400] str. ; 23 cm . - (Svjetska književnost u
+                    hrvatskim prijevodima ; Grčka književnost sv. 1.) </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <revisionDesc>
+            <listChange>
+                <change><date>2014-07-27</date>
+                    <name>Neven Jovanović</name> Početna TEI XML verzija. </change>
+                <!-- Stephanusovi brojevi nisu dobri za paralelni tekst / prijevod -->
+                <!-- prijevod je prilično arhaičan -->
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div corresp="urn:cts:greekLit:tlg0059.tlg003">
+                <head>Kriton.</head>
+                <argument>
+                    <p>Mjesto: državna tamnica u Ateni.</p>
+                    <p>Sokrat se razgovara sa svojim učenikom Kritonom.</p>
+                </argument>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:43a"/>
+                <p><hi rend="italic">Sokrat</hi>. Što si došao u ovo doba, Kritone?
+                    Ili zar nije još rano?</p>
+                <p><hi rend="italic">Kriton</hi>. Jest, veoma rano.</p>
+                <p><hi rend="italic">Sokrat</hi>. Koje doba po prilici?</p>
+                <p><hi rend="italic">Kriton</hi>. Rana zora?</p>
+                <p><hi rend="italic">Sokrat</hi>. Čudim se, kako je tamničar htio da
+                    te pusti?</p>
+                <p><hi rend="italic">Kriton</hi>. Već je sa mnom poznat, Sokrate, što
+                    često dolazim ovamo, a gdješto je od mene i dobio.</p>
+                <p><hi rend="italic">Sokrat</hi>. Jesi li baš sada došao ili
+                    poodavno?</p>
+                <p><hi rend="italic">Kriton</hi>. Već je dosta dugo.</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:43b"/>
+                <p><hi rend="italic">Sokrat</hi>. Pa kako me onda nijesi odmah
+                    probudio, već sjediš ćutke?</p>
+                <p><hi rend="italic">Kriton</hi>. Zeusa mi, Sokrate, i sam bih volio,
+                    da u tolikoj žalosti ne bdim. Pa i tebe već dugo u čudu gledam, kako slatko
+                    spavaš; i navlaš te nijesam budio, da što ugodnije vrijeme provodiš. I prije sam
+                    te već često svega svoga vijeka držao za srećna zbog tvoje ćudi, a kudikamo
+                    najviše sada u ovoj tvojoj nesreći, što je tako lako i mirno podnosiš.</p>
+                <p><hi rend="italic">Sokrat</hi>. Ta bilo bi, Kritone, i naopako u
+                    ovoj starosti srditi se,što već treba mrijeti.</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:43c"/>
+                <p><hi rend="italic">Kriton</hi>. I drugi se, Sokrate, u tolikoj
+                    starosti nađu u takoj nesreći, ali im njihova nesreća nimalo ne brani, da se na
+                    svoju sudbinu, što ih je zadesila, ne srde.</p>
+                <p><hi rend="italic">Sokrat</hi>. Jest tako. No zašto si već tako rano
+                    došao?</p>
+                <p><hi rend="italic">Kriton</hi>. Da ti nosim žalosnu vijest, Sokrate,
+                    ne tebi, kako mi se čini, već meni i tvojim prijateljima svima i tužnu i tešku,
+                    koju ću ja čini mi se, valjada najteže pregorjeti.</p>
+                <p><hi rend="italic">Sokrat</hi>. Koju to? Je li možebit iz Dela<hi
+                        rend="Footnote_Anchor"><note place="foot" xml:id="ftn2" n="2"><p
+                                rend="footnote text"><hi rend="footnote_reference"> </hi> Atenjani
+                                su Apolonu na Del svake godine slali svečanu žrtvu, pa dok se lađa
+                                ne vrati, nije nitko smio u ime države gubiti glave.</p></note></hi>
+                    stigla lađa, koju mi valja <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:43d"/> dočekati pa
+                    umrijeti?</p>
+                <p><hi rend="italic">Kriton</hi>. Još nije stigla, nego će, čini mi
+                    se, stići danas po onomu, što javljaju neki, što su od Sunije došli i ondje je
+                        <pb n="343"/> ostavili. Jasno je dakle po tima glasovima, da će stići danas,
+                    pa ćeš evo, Sokrate, do sjutra svoj život svršavati. </p>
+                <p><hi rend="italic">Sokrat</hi>. Pa bilo u dobar čas, Kritone! Ako je
+                    tako bogovima milo, neka tako bude! No opet ne mislim, da će stići danas.</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:44a"/>
+                <p><hi rend="italic">Kriton</hi>. Po čemu to sudiš? </p>
+                <p><hi rend="italic">Sokrat</hi>. Ja ću ti reći. Ja naime valjada
+                    moram umrijeti dan poslije, kako lađa dođe. </p>
+                <p><hi rend="italic">Kriton</hi>. Tako bar kažu oni, koji to odlučuju. </p>
+                <p><hi rend="italic">Sokrat</hi>. Ne mislim dakle, da će ona doći na
+                    današnji dan, već sjutra. To sudim po nekakoj utvari, koju sam malo prije ove
+                    noći u snu vidio; i čini se, da je nekako bilo dobro, što me nijesi probudio. </p>
+                <p><hi rend="italic">Kriton</hi>. A kakav je to bio san?</p>
+                <p><hi rend="italic">Sokrat</hi>. Činilo mi se, da je preda me došla
+                    lijepa i pristala žena <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:44b"/>u bijelim
+                    haljinama pa me je zvala i rekla: „Sokrate! Mogo bi trećega dana u grudastu
+                    dospjeti Ftiju“.<hi rend="Footnote_Anchor"><note place="foot" xml:id="ftn3"
+                            n="3"><p rend="footnote text"><hi rend="footnote_reference"> </hi> Hom.
+                                9. 363. t.j. za tri dana bi mogao umrijeti.</p></note></hi></p>
+                <p><hi rend="italic">Kriton</hi>. Čudan san to, Sokrate!</p>
+                <p><hi rend="italic">Sokrat</hi>. Bar je, Kritone, kako se meni čini,
+                    jasan.</p>
+                <p>
+                    <hi rend="italic">Kriton</hi>. I odviše, kako se čini, Nego, čudni Sokrate, još
+                    me i sad slušaj te se izbavi! Jer meni nije jedina nesreća, ako ti umreš, već
+                    osim toga, što sam onda lišen takoga prijatelja, kakoga nigda više ne ću naći,
+                    još će mnogi, koji mene, i tebe dobro ne poznaju, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:44c"/>misliti, da za
+                    tvoje izbavljenje nijesam, mario, premda sam mogao, da sam htio novaca trošiti.
+                    A koji bi glas mogao biti ružniji od toga, da se čini, da čovjek više cijeni
+                    novac nego prijatelje? Jer svijet ne će vjerovati, da ti sam nijesi htio da
+                    odavde odlaziš, premda smo mi to živo željeli. </p>
+                <p><hi rend="italic">Sokrat</hi>. Ali dobri Kritone, što je nama do
+                    mišljenja ljudi toliko stalo? Jer oni bolji, za koje je vrijedno više mariti,
+                    vjerovat će, da se dogodilo onako, kako se već dogodi.</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:44d"/>
+                <p><hi rend="italic">Kriton</hi>. Ali ti evo vidiš, Sokrate, da se i
+                    na mišljenje svijeta mora paziti. Evo isto tvoje sadašnje stanje dokazuje, da
+                    ljudi mogu ne samo najmanje zlo činiti, već gotovo najveće, ako je tko kod njih
+                    omražen.</p>
+                <pb n="344"/>
+                <p><hi rend="italic">Sokrat</hi>. Kamo sreće, Kritone, kad bi ljudi
+                    mogli najveće zlo činiti, da bi mogli činiti i najveće dobro, pa bi lijepo bilo.
+                    A ovako ne mogu ni jedno ni drugo; jer oni nijesu vrsni učiniti ni razborita ni
+                    nerazborita, već rade ono, što im već padne na pamet. </p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:44e"/>
+                <p><hi rend="italic">Kriton</hi>. Nek je dakle tako! Nego mi, Sokrate,
+                    reci ovo! Nijesi li ti možebit za mene i ostale prijatelje u brizi, da nam ne
+                    bi, ako ti odavde otideš, zlobni tužitelji neprilika zadavali, što smo te odavde
+                    kradom izveli, i da ne budemo prinuđeni, da ili i sav svoji imutak izgubimo ili
+                    bar mnogo novaca ili još drugo što osim toga pretrpimo? Jer ako <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:45a"
+                    />se ti čega takvoga bojiš, pusti to! Ta valjada je pravo, da te mi izbavimo i
+                    za to se ovoj pogibli izlažemo pa, ako treba, još većoj od ove: Nego mene slušaj
+                    i ne čini drukčije! </p>
+                <p><hi rend="italic">Sokrat</hi>. I zato sam zabrinut, Kritone, i za
+                    mnogo drugo.</p>
+                <p><hi rend="italic">Kriton</hi>. Ali nemoj se toga bojati! Jer to i
+                    nije velik novac, za koji te neki hoće da spasu i odavde odvedu. Pak ne vidiš
+                    li, kako se ove naše uhode za male novce dadu potkupiti, pa nikako ne bi trebalo
+                    za njih mnogo novaca? <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:45b"/>A tebi je moja
+                    imovina rekao bih dovoljna. Pa sve da si ti i za mene nešto u brizi te stoga
+                    misliš, da ne treba moje trošiti, prijatelji ovi ovdje su spremni trošiti; a
+                    jedan je baš zato i donio dosta novaca, Simija iz Tebe, a i Kebo je spreman i
+                    vrlo mnogi drugi! I tako se, kako velim, nemoj toga plašiti i sam se spasa
+                    odreći, a tako isto neka ti ne smeta, što si u sudu govorio, da ne bi znao, što
+                    da sam sobom radiš, kad odavde otideš. <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:45c"/>Jer i na mnogim
+                    mjestima, kamo bi došao, rado će te primiti. A ako hoćeš da ideš u Tesaliju,
+                    imam ja ondje prijatelja, koji će te veoma cijeniti i za tvoju se sigurnost
+                    brinuti tako, da ti u Tesaliji nitko ništa ne čini na žao. Onda mi se, Sokrate,
+                    čini, da nije ni pravo, što ti namjeravaš da sam sebe pogubiš, kad se možeš
+                    izbaviti; i da sam nastojiš da ti se dogodi ono, oko čega bi tvoji neprijatelji
+                    nastojali te su doista nastojali s nakanom, da bi te upropastili. A suviše mi se
+                    čini, da je to i nevjera prema tvojim sinovima, koje bi <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:45d"/>
+                    mogao othraniti <pb n="345"/> i naobraziti; a ovako ćeš ih ostaviti i otići pa
+                    će im, što se tebe tiče biti onako, kako već sreća donese. A ona će im, sva je
+                    prilika, donijeti ono, što se obično događa siročadi, koja je ostala bez oca.
+                    Jer ili ne treba djece roditi ili se treba s njima mučiti othranjujući ih i
+                    odgajajući, a ti čini mi se biraš ono, što je najlakše. No onaj bar, tko evo
+                    govori, da svega vijeka radi oko kreposti, treba da bira ono, što bi čovjek
+                    dobar i srčan odabrao. I tako se ja i <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:45e"/>za tebe i za
+                    nas, tvoje prijatelje, stidim bojeći se, da se ne bi učinilo, kao da se cijela
+                    ta stvar s tobom. dogodila s nekakve naše kukavštine: i početak ove parnice,
+                    kako je došla pred sud, premda nije morala doći, i sama rasprava ove parnice
+                    kako je tekla i evo ovaj kao smiješni zaglavak te stvari, što se čini, kao da
+                    nam se poradi nekake mlitavosti i kukavštine izmaklo, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:46a"/>kad te ni mi ne
+                    izbavismo ni ti sam sebe, gdje je bilo prilike i moguće, da smo samo malo što
+                    valjali. Na to dakle, Sokrate, pazi, da pored zla ne bude još i sramote tebi i
+                    nama. Nego rješavaj se , Sokrate, pače ni nije više doba da se rješavaš, već da
+                    si se riješio. A odluka je jedna. Jer evo ove noći sve to mora biti svršeno. A
+                    ako još pričekamo, ne će se više moći niti će biti prilike. Nego me, Sokrate,
+                    svakako slušaj i ne čini nipošto drugačije!</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:46b"/>
+                <p><hi rend="italic">Sokrat</hi>. Dragi Kritone! Tvoja je briga mnogo
+                    vrijedna, samo da je i malo opravdana; a ako nije, onda je što veća to
+                    neuglednija. Treba dakle da razmišljamo, valja li to učiniti ili ne. Jer ja sam
+                    ne samo sada, već i vazda takav čovjek, koji ništa drugo u sebi ne slušam nego
+                    razlog, koji mi se u razmišljanju čini najbolji. A razloge, koje sam prije
+                    branio, ne mogu sada zabaciti, kad me je evo ova sudba stigla, već mi se ukazuju
+                    gotovo oni isti, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:46c"/>i tako ja štujem
+                    i cijenim one iste razloge kao i prije. Pa ako mi sada ne možemo od njih bolje
+                    da navodimo, znaj dobro, da ti ne ću popustiti, sve da nas moć svijeta još sa
+                    više strašila nego sada kao djecu plaši, namjenjujući nam tamnicu, smrt i
+                    gubitak imutka. Kako bismo dakle o tome najzgodnije razmišljali? Prvoiprvo kad
+                    bismo <pb n="346"/> onaj razlog prihvatili, koji ti navodiš, što se tiče
+                    ljudskih sudova, je li svakako dobro rečeno ili nije, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:46d"/>da na gdjekoje
+                    sudove treba paziti, a na gdjekoje ne? Ili je prije, što će mi valjda mrijeti,
+                    dobro rečeno a sad se jasno pokazalo, da je to samo onako za zabavu rečeno te je
+                    uistinu bila šala i priklapanje? Ja bar, Kritone, želim da zajedno s tobom
+                    ispitam, hoće li mi se to načelo kako drukčije ukazati, kad mi je evo ovako, ili
+                    baš isto; pa hoćemo li ga pustiti ili mu se pokoriti. Kako se meni čini,
+                    govorili su svagda oni, koji misle da nešto govore, po prilici ovako, kako sam
+                    evo sada ja govorio, da gdjekoje sudove, što ih ljudi <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:46e"/>izriču, treba
+                    veoma cijeniti, a druge ne treba. Tako ti bogova, Kritone, zar se tebi ne čini,
+                    da je to dobro rečeno? Jer ti bar po ljudskom računu nijesi blizu toga, da bi
+                    morao sutra mrijeti, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:47a"/>pa te ne bi
+                    mogla zavesti gotova nesreća. Pazi dakle: ne čini li se tebi zgodno rečeno, da
+                    ne treba sve sudove ljudske štovati, već neke treba, a druge ne treba? Što
+                    veliš, nije li to dobro rečeno?</p>
+                <p><hi rend="italic">Kriton</hi>. Jest?</p>
+                <p><hi rend="italic">Sokrat</hi>. Je li dakle, valjane treba štovati,
+                    a nevaljane ne treba?</p>
+                <p><hi rend="italic">Kriton</hi>. Da!</p>
+                <p><hi rend="italic">Sokrat</hi>. A nijesu li valjani sudovi ljudi
+                    razboritih, a nevaljani nerazboritih?</p>
+                <p><hi rend="italic">Kriton</hi>. Kako ne bi?</p>
+                <p><hi rend="italic">Sokrat</hi>. Hajde dakle, kako je opet ovo bilo
+                    rečeno? Hoće li čovjek, koji tijelo vježba <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:47b"/>i tim se bavi,
+                    na hvalu i prijekor svakoga čovjeka paziti ili samo jednoga i to onoga, koji je
+                    baš liječnik ili vještak u vježbama?</p>
+                <p><hi rend="italic">Kriton</hi>. Samo jednoga.</p>
+                <p><hi rend="italic">Sokrat</hi>. On se dakle mora bojati prijekora i
+                    radovati hvali onoga jednoga, a ne onih mnogih.</p>
+                <p><hi rend="italic">Kriton</hi>. Očevidno.</p>
+                <p><hi rend="italic">Sokrat</hi>. On se dakle po tome mora da ravna,
+                    tijelo vježba i jede i pije, kako već onaj jedan misli, vještak i stručnjak,
+                    više nego po onome, kako misle svi zajedno.</p>
+                <p><hi rend="italic">Kriton</hi>. Tako je.</p>
+                <pb n="347"/>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:47c"/>
+                <p><hi rend="italic">Sokrat</hi>. Dobro! A ako toga jednoga ne posluša
+                    i za njegov sud ne mari, pa ako se samo drži onoga, što većina govori, koja se u
+                    to ništa ne razumije, ne će li onda nikakve štete imati?</p>
+                <p><hi rend="italic">Kriton</hi>. Kako ne bi?</p>
+                <p><hi rend="italic">Sokrat</hi>. A koja je to šteta? I kamo smjera i
+                    čega se tiče na onome, koji je neposlušan?</p>
+                <p><hi rend="italic">Kriton</hi>. Očevidno njegova tijela; jer to on
+                    rastače.</p>
+                <p><hi rend="italic">Sokrat</hi>. Pravo govoriš. A nije li, Kritone, i
+                    u ostalom tako, da ne prorešetamo sve, dakle: u onome, što je pravo i
+                    nepravedno, ružno i lijepo, dobro i zlo, o čemu se mi sada razgovaramo. Treba
+                    li, da se mi držimo onoga, što većina misli, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:47d"/>i toga se
+                    bojimo, ili onoga, što jedan misli, ako je koji vještak, kojega se treba
+                    stidjeti i bojati više nego svih drugih? Jer ako se njega ne držimo, uništit
+                    ćemo i pokvariti ono, što bi se pravdom popravljalo a nepravdom zatiralo. Ili to
+                    nije ništa?</p>
+                <p><hi rend="italic">Kriton</hi>. Ja bar Sokrate, mislim, da bi bilo
+                    tako.</p>
+                <p><hi rend="italic">Sokrat</hi>. Dobro dakle! Ako mi ono, što se
+                    zdravljem popravlja a bolešću zatire tim pokvarimo, što slušamo sud onih, koji
+                    nijesu vještaci, je li nam onda vrijedno živjeti, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:47e"/>kad je to ono
+                    pokvareno? A to je valjada tijelo? Ili zar nije?</p>
+                <p><hi rend="italic">Kriton</hi>. Jest.</p>
+                <p><hi rend="italic">Sokrat</hi>. Je li nam dakle vrijedno živjeti s
+                    tijelom iznemoglim i izmoždenim?</p>
+                <p><hi rend="italic">Kriton</hi>. Nipošto.</p>
+                <p><hi rend="italic">Sokrat</hi>. A je li nam vrijedno živjeti, ako je
+                    pokvareno ono, čemu nepravda škodi, a pravda koristi? Ili držimo, da je od
+                    tijela lošije ono, - bilo to u nama, što mu drago, - <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:48a"/>čega se nepravda
+                    i pravednost tiče?</p>
+                <p><hi rend="italic">Kriton</hi>. Nipošto.</p>
+                <p><hi rend="italic">Sokrat</hi>. Već je plemenitije?</p>
+                <p><hi rend="italic">Kriton</hi>. Kudikamo?</p>
+                <p><hi rend="italic">Sokrat</hi>. Mi dakle, predobri, ne treba baš
+                    tako da brinemo za to, što će svijet o nama reći, već što će onaj jedan, koji se
+                    razumije u pravdu i nepravdu, pa i sama istina. I tako ti prvoiprvo ne počinješ
+                    pravo, kad počinješ time, da nam se treba brinuti za sud svijeta; što se tiče
+                    pravde <pb n="348"/> i ljepote i dobrote i što je tomu protivno. „Ali evo“,
+                    mogao bi tko reći, „svijet ima vlast, da nas ubija!“</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:48b"/>
+                <p><hi rend="italic">Kriton</hi>. Dabogme da bi i to tko mogao reći,
+                    Sokrate!</p>
+                <p><hi rend="italic">Sokrat</hi>. Istinu govoriš. Ali čudni
+                    prijatelju, ovo načelo, koje smo prorešetali, čini se bar meni isto kao i prije.
+                    A prosuđuj opet i ovo, vrijedi li nam još ili ne vrijedi, da ne treba život nada
+                    sve cijeniti, već dobar život.</p>
+                <p><hi rend="italic">Kriton</hi>. Dabogme da vrijedi.</p>
+                <p><hi rend="italic">Sokrat</hi>. A vrijedi li to, da je dobro i
+                    lijepo i pravedno jedno isto?</p>
+                <p><hi rend="italic">Kriton</hi>. Vrijedi?</p>
+                <p><hi rend="italic">Sokrat</hi>. Po tome dakle, u čem smo se složili,
+                    treba prosuditi ovo, je li pravo, da ja kušam odavde odlaziti bez dopuštenja
+                        <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:48c"/>Atenjana ili
+                    nije pravo. Pa ako se vidi, da je pravo, kušajmo, a ako nije puštajmo! A što ti
+                    govoriš i što misliš na trošenje novaca, na glas i odgoju djece, ja se, Kritone,
+                    sve bojim, da su to uistinu misli onih, koji bi lakosmisleno ubijali i
+                    oživljavali, kad bi mogli, - bez ikake pameti, misli ovoga svijeta. A mi, kad
+                    naše načelo ovako iziskuje, ne treba da ni za što drugo ne pazimo, nego, kako
+                    smo evo sad govorili, na to, hoćemo li pravo činiti, ako na one, koji će mene
+                    odavde da izbave, i novca trošimo <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:48d"/>i za to im
+                    zahvaljujemo i još i sami u tome činimo na ruku, ili ćemo uistinu nepravdu
+                    činiti, ako sve to radimo. Pa ako se vidi, da mi tim nepravdu činimo, ne treba
+                    ni računati na to, treba li mrijeti ili što drugo trpjeti, ako skrštenih ruku
+                    ostanemo, samo da krivo ne činimo.</p>
+                <p><hi rend="italic">Kriton</hi>. Ti, Sokrate, čini mi se lijepo
+                    govoriš; ali pazi, što da činimo.</p>
+                <p><hi rend="italic">Sokrat</hi>. Razmišljajmo, dobri moj, zajedno, pa
+                    ako možda imaš što prigovarati, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:48e"/>kad ja govorim,
+                    prigovaraj i ja ću te poslušati; a ako nemaš, a ti, srećni čovječe, već jedamput
+                    prestani govoriti mi sila puta jednu riječ, da ja odavde treba da odlazim protiv
+                    volje Atenjana. Jer ja mnogo do toga držim, da me ti nagovoriš, da to činim, a
+                    ne protiv svoje volje. Pazi dakle, je li početak našega razmatranja <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:49a"
+                    />dovoljno razložen i kušaj, da na pitanje odgovaraš, kako već najbolje
+                    znaš.</p>
+                <pb n="349"/>
+                <p><hi rend="italic">Kriton</hi>. Pa ja ću kušati.</p>
+                <p><hi rend="italic">Sokrat</hi>. Priznajemo li, da navlaš ni na kakav
+                    način ne treba nepravdu činiti? Ili na gdjekoji način treba nepravdu činiti, a
+                    na gdjekoji ne? Ili nije nikako dobro ni lijepo nepravdu činiti, kao što smo i
+                    prije često puta sročno priznali; ili su nam na sve one pređašnje sročne izjave
+                    u ovo nekoliko dana izvrnule te mi, Kritone, tako stari ljudi, premda se
+                    ozbiljno razgovarasmo, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:49b"/>odavno ne
+                    opazismo, da se mi od djece nimalo ne razlikujemo? Ili je evo na svaki način
+                    tako, kako smo prije govorili, ili to svijet priznavao ili ne priznavao? Pa sve
+                    da bismo još gore prolazili nego sada ili bolje, je li opet nepravdu činiti za
+                    onoga, koji je čini, zlo i sramota baš na svaki način? Priznajemo li to ili
+                    ne?</p>
+                <p><hi rend="italic">Kriton</hi>. Priznajemo!</p>
+                <p><hi rend="italic">Sokrat</hi>. Nipošto dakle ne treba nepravdu
+                    činiti?</p>
+                <p><hi rend="italic">Kriton</hi>. Zaista ne treba!</p>
+                <p><hi rend="italic">Sokrat</hi>. Dakle se ne smije ni za nepravdu
+                    nepravda vraćati, kao svijet što misli, jer se nipošto ne smije nepravda
+                    činiti?</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:49c"/>
+                <p><hi rend="italic">Kriton</hi>. Rekao bih, da se ne smije.</p>
+                <p><hi rend="italic">Sokrat</hi>. Što dakle? Smije li se, Kritone, zlo
+                    činiti ili ne?</p>
+                <p><hi rend="italic">Kriton</hi>. Dabogme da se ne smije, Sokrate.</p>
+                <p><hi rend="italic">Sokrat</hi>. A što? Je li pravo ili nije pravo,
+                    da onaj, koji zlo trpi, za to vraća zlo, kako svijet misli?</p>
+                <p><hi rend="italic">Kriton</hi>. Nipošto.</p>
+                <p><hi rend="italic">Sokrat</hi>. Jer ljudima zlo činiti, to se
+                    valjada ni čim ne razlikuje od toga, da se nepravda čini.</p>
+                <p><hi rend="italic">Kriton</hi>. Istinu govoriš.</p>
+                <p><hi rend="italic">Sokrat</hi>. Nikome dakle na svijetu ne smije se
+                    nepravda za nepravdu vraćati ni zlo činiti, pa makar šta od njega trpio. A kad
+                    to priznaješ, Kritone, pazi,<milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:49d"/> da ne priznaješ
+                    protiv svojega uvjerenja; jer ja znam, da ima tek malo ljudi, koji to vjeruju i
+                    koji će u to vjerovati. Za one dakle, koji su o tome uvjereni i koji nijesu,
+                    nema zajedničkoga zavičaja, već jedni od drugih moraju zazirati, kad jedni vide,
+                    što drugi misle. Prosuđuj dakle evo i ti vrlo dobro, slažeš li se sa mnom i
+                    prihvaćaš li to, pa da počinjemo vijećati odavde, da nikad nije pravo no
+                    nepravdu činiti <pb n="350"/> ni nepravdu za nepravdu vraćati ni zlo, koje se
+                    trpi, uzbijati tim, da se zlo čini; ili ti odstupaš te se ne slažeš s ovim
+                    početkom. <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:49e"/>Jer ja sam već
+                    davno a i sad još o tome uvjeren. Pa ako ti možda drukčije misliš, govori i
+                    dokazuj; ostaješ li kod onoga pređašnjega, a ti slušaj ono dalje!</p>
+                <p><hi rend="italic">Kriton</hi>. Ta ja ostajem i slažem se s tobom;
+                    nego govori!</p>
+                <p><hi rend="italic">Sokrat</hi>. Ja dakle opet ovo dalje velim ili
+                    radije pitam: ako tko što je pravo obeća, mora li to učiniti ili smije
+                    prevariti?</p>
+                <p><hi rend="italic">Kriton</hi>. Mora učiniti.</p>
+                <p><hi rend="italic">Sokrat</hi>. S ovoga gledišta dakle razmišljaj!
+                    Ako mi odavde otidemo, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:50a"/>premda grad naš
+                    ne pristaje, činimo li komu zlo i to baš onima, kojima bi najmanje smjeli, ili
+                    ne činimo? I ostajemo li kod onoga, za što smo priznali da je pravo, - ili ne
+                    ostajemo?</p>
+                <p><hi rend="italic">Kriton</hi>. Na ovo pitanje, Sokrate, ne znam
+                    odgovoriti; jer ga ne razumijem.</p>
+                <p><hi rend="italic">Sokrat</hi>. A ti razmatraj ovako! Kad bismo
+                    odavde namjeravali bježati ili kako to već treba nazvati, pa bi došli opći
+                    državni zakoni, stali pred nas i upitali: „Reci mi, Sokrate, što si naumio
+                    učiniti? <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:50b"/>Ne namjeravaš li
+                    ovim činom, što ga preduzimaš, nas zakone i svukoliku državu, koliko je do tebe,
+                    upropastiti? Ili ti misliš, da to može biti, da stoji i da se sasvim ne raspada
+                    država, u kojoj sudbene osude ništa ne vrijede, već ih obični ljudi obaraju i
+                    krše? Što ćemo, Kritone, reći na to i druga takva pitanja? Jer mnogo bi koješta
+                    čovjek, a pogotovu govornik mogao napomenuti u korist tomu zakonu, koji se
+                    nogama gazi a ovamo nalaže, da sudačke odluke vrijednost imaju. <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:50c"
+                    />Ili ćemo im reći, da nam je država krivo činila, što parnicu nije pravo
+                    sudila? Hoćemo li to reći ili što ćemo?</p>
+                <p><hi rend="italic">Kriton</hi>. Zeusa mi, Sokrate, to ćemo reći!</p>
+                <p><hi rend="italic">Sokrat</hi>. Što dakle? Ako zakoni kažu: Jesmo li
+                    se, Sokrate, mi i ti u tome složili, da ostajemo kod presuda, koje već država
+                    sudi?“ Kad bismo se dakle njihovim riječima čudili, možda bi rekli: „Nemoj se,
+                    Sokrate, našim riječima čuditi, već odgovaraj, kad si i navikao pitati i <pb
+                        n="351"/> odgovarati. Deder dakle, što <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:50d"/>ti nama i državi
+                    zabavljaš, te nas evo hoćeš da upropašćuješ? Prvoiprvo: nijesmo li mi tebe na
+                    svijet doveli? A nijesi li preko nas dobio mater i oca, koji te rodiše? Reci nam
+                    dakle, prigovaraš li što onim zakonima, koji se tiču ženidbe, da nijesu dobri?“
+                    – „Ne prigovaram“, rekao bih ja. – „Već prigovaraš onima, koji se tiču othrane i
+                    odgoje djeteta, kako si i ti odgojen? Ili nijesu li oni zakoni između nas, koji
+                    se toga tiču, lijepo određivali nalažući tvojemu ocu, da te <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:50e"
+                    />odgaja u muzici i gimnastici?“ – „Jesu lijepo“, rekao bih ja. – „Dobro! A
+                    pošto si rođen, othranjen i odgojen, bi li mogao reći prvoiprvo, da nijesi bio
+                    naš i potomak i sluga i ti i tvoji djedovi? Pa ako je tako, misliš li, da ti
+                    imaš jednako pravo kao i mi i štogod mi tebi kušamo činiti, da i ti imaš pravo
+                    nama činiti? Ili ti onamo prema svome ocu i prema svojemu gospodaru, kad bi ga
+                    baš imao, ne bi imao jednako pravo tako, da bi mu žao za sramotu <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:51a"
+                    />vraćao ili odgovarao, ako te grdi, ili ga tukao, ako on tebe tuče ili mnogo
+                    drugo tako; - a ovamo prema svojoj domovini i njezinim zakonima imaš pravo tako,
+                    i ti bi koliko možeš htio pogubiti nas, zakone i svoju domovinu pa da kažeš, ti
+                    pravo činiš, kada to radiš ti, koji uistinu oko kreposti nastojiš? Ili si tako
+                    mudar te ne znaš, da je od matere i oca i svih ostalih starijih domovina
+                    vrednija i časnija i svetija <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:51b"/>i u većoj cijeni
+                    i kod bogova i kod ljudi, koji imaju pameti, i da više treba štovati i popuštati
+                    i ublaživati domovinu, ako se srdi, nego oca, i uvjeravati je ili činiti, što
+                    već zapovijeda, i trpjeti, ako što nalaže, da se trpi – bez prigovora, i kao te
+                    tuku i kao da te vežu i ako te goni u rat, da budeš ranjen ili da pogineš, - to
+                    se činiti mora i tako je pravo: ne smiješ uzmicati niti odstupati ni mjesta
+                    svoga ostavljati, već i u ratu i u sudu i na svakome mjestu treba činiti, štogod
+                    država i domovina zapovijeda,<milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:51c"/> ili je
+                    nagovarati na ono, što pravda ište? A silovito postupati nije bogu milo ni s
+                    materom ni s ocem, a još kudikamo <pb n="352"/> manje sa svojom otadžbinom?“ Što
+                    ćemo na to reći, Kritone, govore li zakoni pravo ili ne?</p>
+                <p><hi rend="italic">Kriton</hi>. Meni se bar čini da govore.</p>
+                <p><hi rend="italic">Sokrat</hi>. „Pazi dakle, Sokrate“, - rekli bi
+                    možda zakoni – „je li ovo istina, što mi govorimo, da ti time što sada
+                    namjeravaš nama hoćeš da krivo činiš. Jer mi, koji smo te rodili, othranili i
+                    odgojili, koji smo svega dobra, što smo god <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:51d"/>mogli, i tebi i
+                    svima ostalim građanima dali, opet izjavljujemo ostavljajući slobodu svakomu
+                    Atenjaninu, kojigod hoće, ako ispita i vidi prilike u našemu gradu i nas zakone,
+                    pa kome se ne sviđamo, da smije svoje uzeti i otići, kudgod hoće. I nijedan
+                    između nas zakona nije na putu i ne brani, ako koji od vas hoće da ide u
+                    naselje, ako mu se mi i grad naš ne bismo sviđali, i ako drugamo hoće da ide i
+                    ondje kao naseljenik živi, da sa svojim imutkom ide onamo, kamo <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:51e"
+                    />već hoće. A koji god od vas ostane gledajući, kako mi sud sudimo i inače
+                    državom upravljamo, za njega velimo, da nam je činom obećao, da će činiti sve
+                    ono, što mi nalažemo; a koji ne sluša, za njega velimo, da on trostruko nepravdu
+                    čini: što on nas, koji smo njegovi roditelji i hranitelji, ne sluša; i što on,
+                    premda nam je poslušnost obećao, niti nas sluša niti uvjerava, ako što ne činimo
+                    pravo; <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:52a"/>i premda mi samo
+                    predlažemo i ne baš oštro zapovijedamo da čini, što mi nalažemo, već mu na volju
+                    ostavljamo jedno od dvoga, da nas uvjerava ili da radi, on od toga ne čini ni
+                    jedno ni drugo. Ove će dakle krivice, Sokrate, - tako mi velimo – i na tebe
+                    pasti, ako učiniš, što imaš na umu, i to između Atenjana na tebe ne najmanje već
+                    baš najviše“. Kad bih dakle ja rekao: „A zašto to?“ možda bi me s pravom
+                    prekoravali govoreći, da sam im između Atenjana baš ja najviše zadao ovo
+                    obećanje. Oni bi naime govorili: <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:52b"/>„Mi imamo,
+                    Sokrate, jakih dokaza za to, da smo ti se mi i grad naš sviđali. Jer između svih
+                    ostalih Atenjana ne bi osobito ti u njemu boravio, da ti se nije osobito sviđao,
+                    pa zato ti nigda nijesi iz grada izišao na svetkovinu niti ikamo drugamo, već
+                    ako kuda na vojsku, niti si ikad išao inače <pb n="353"/> na put, kao ostali
+                    ljudi niti te je obuzela želja, da bi drugi grad i druge zakone upoznao, nego
+                    smo ti mi <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:52c"/>i grad naš bili
+                    dosta: tako si nas uvelike cijenio, te si na to pristajao, da ćeš po nama kao
+                    građanin živjeti te si među ostalim u gradu i djecu porodio, jer ti se on
+                    sviđao. Pače još i u istoj parnici mogao si za sebe predložiti kazan zatočenja,
+                    da si htio, i što sada pokušavaš protiv volje našega grada, to si onda mogao
+                    učiniti s njegovim pristankom. No ti si se onda gizdavo držao kao da se ne
+                    srdiš, kad bi morao poginuti, već si, kako si govorio, volio smrt nego
+                    zatočenje. A sada niti se stidiš onih svojih riječi niti se obazireš na nas
+                    zakone pokušavajući, da nas uništiš i radiš <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:52d"/>ono, što bi
+                    najgori rob učinio pokušavajući, da odavde bježiš protiv ugovora i obećanja
+                    svojih, po kojima si se zavjerio, da kao građanin živiš. Najprije nam dakle baš
+                    to odgovori, govorimo li istinu, kad velimo, da si ti činom a ne riječju obećao,
+                    da po nama kao građanin živiš, ili nije istina?“ Što da na to kažemo, Kritone?
+                    Zar da ne kažemo: tako je?</p>
+                <p><hi rend="italic">Kriton</hi>. Moramo reći, Sokrate!</p>
+                <p><hi rend="italic">Sokrat</hi>. „Nije li dakle istina“, mogli bi oni
+                    reći, „da ti kršiš svoje ugovore s <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:52e"/>nama i obećanja,
+                    premda ih nijesi dao od nevolje niti si bio prevaren niti prinuđen, da se
+                    promisliš u kratko vrijeme, već za 70 godina, za kojih ti je bilo slobodno
+                    odlaziti, ako ti se mi nijesmo sviđali i ako ti se činilo, da uvjeti nijesu
+                    pravedni? A ti nijesi volio ni Lakedemon ni Kretu, za koje evo svagda veliš, da
+                    imaju dobre zakone, nit ikoji drugi <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:53a"/>helenski ni
+                    barbarski grad, već si manje iz grada otišao nego hromi i slijepi i ostali
+                    bogalji: tako se tebi više no ostalim Atenjanima očevidno sviđao grad naš a i mi
+                    zakoni; jer kome bi se grad sviđao bez zakona? A sad evo ne ćeš da ostaješ kod
+                    zadane riječi? Ali hoćeš, bar ako nas slušaš, Sokrate! I ne ćeš biti smiješan,
+                    da si iz našega grada umaknuo. Jer evo pazi: ako ti to prekršiš i štogod od toga
+                    odstupaš, što ćeš dobra da učiniš sebi ili svojim <pb n="354"/> prijateljima?
+                        <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:53b"/>Jer da će tvoji
+                    prijatelji doći u pogibao, da i oni bježe i iz našeg grada budu isključeni ili
+                    da svoj imutak izgube, to je gotovo očevidno. Prvoiprvo: ako ti dođeš u koji
+                    bližnji grad Tebi ili Megaru, - jer obadva imaju dobre zakone, - ti ćeš,
+                    Sokrate, doći kao neprijatelj njihovu ustavu i svi oni, kojima je do njihova
+                    grada stalo, zazirat će od tebe držeći, da ti zakone kršiš, pa ćeš učvrstiti
+                    ugled sudijama, te će svijet misliti, da su tvoju <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:53c"/>parnicu pravo
+                    presudili: jer tkogod zakone nogama gazi, za njega bi valjada svijet pogotovu
+                    mislio, da kvari mladež i ljude nerazborite. Hoćeš li se dakle kloniti gradova,
+                    koji imaju dobre zakone, i ljudi čestitih? I ako to radiš, hoće li ti vrijedno
+                    biti da živiš? Ili ćeš ih držati i bezobrazno govoriti – kake govore, Sokrate?
+                    Zar ovake kao ovdje, da krepost i pravednost, red i zakon ljudima više vrijede
+                    no išta na svijetu? I misliš li, da se ovo postupanje Sokratovo ne će držati za
+                        ružno?<milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:53d"/> No to se mora
+                    misliti! Nego iz ovih ćeš se gradova ukloniti pa ćeš doći u Tesaliju i k
+                    prijateljima Kritonovim! Ta ondje je najveći nered i raskalašenost, pa će se oni
+                    valjada radovati slušajući, kako si smiješno iz tamnice bježao zamotan nekakom
+                    kabanicom ili u kožuhu ili čemu drugom, kako se već obično opremaju oni, što
+                    bježe, u posve promijenjenu obliku. A da si se kao star čovjek, kojemu po
+                    prilici malo vremena ostaje za život, <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:53e"/>usudio tako
+                    ružno čeznuti za životom te si za to najsvetije zakone prekršio, zar to nitko ne
+                    će reći? Možebit, ako nikoga ne vrijeđaš; ali inače ćeš, Sokrate, mnogo koješta
+                    čuti, što tebe nije dostojno. Živjet ćeš dakle ponizno služeći svim ljudima; a
+                    što ćeš drugo nego častiti se kao da si na gozbu otputovao u Tesaliju? A oni
+                    govori o <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:54a"/>pravednosti i
+                    ostaloj vrlini – gdje će nam oni ostati? Ali da, ti hoćeš svoje djece radi da
+                    živiš, da bi ih othranio i odgojio? A što? U Tesaliju hoćeš da ih vodiš i ondje
+                    othraniš i odgojiš pa da od njih tuđince učiniš, da bi ih i ta sreća snašla? Ili
+                    to ne, već će se oni, ako si ti živ i oni se ovdje othranjuju, bolje othraniti i
+                    odgajati, kad <pb n="355"/> ti nijesi s njima, jer će se tvoji prijatelji za
+                    njih brinuti? Pa hoće li se oni brinuti, ako ti otideš u Tesaliju, a ako odseliš
+                    u Had, ne će se brinuti? <milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:54b"/>Ako oni, koji
+                    vele da su tvoji prijatelji, išta vrijede, onda treba misliti, da hoće. Nego
+                    Sokrate, ako nas, svoje hranitelje slušaš, nemoj ni djecu ni život nit išta
+                    drugo više cijeniti od pravde, da, kad dođeš u Had, sve to možeš za obranu
+                    pomenuti tamošnjim vladaocima; jer ovo, o čemu ti radiš, čini se da ni ovdje
+                    nije bolje ni pravednije ni bogoljubnije ni za tebe ni za ikoga drugoga od
+                    tvojih, nit će ti biti bolje, kad dođeš onamo. Nego ako sada onamo otideš, otići
+                    ćeš kao čovjek, kojemu su nepravdu učinili<milestone unit="section"
+                        corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:54c"/> ljudi a ne
+                    zakon. A ako utečeš i nepravdu nepravdom a zlo zlim vratiš pa ako svoja obećanja
+                    i ugovore s nama uglavljene prekršiš i zlo učiniš onima, kojima bi najmanje smio
+                    i sebi i prijateljima i domovini i nama, mi ćemo se na te srditi, dok si živ i
+                    tamošnja naša braća, u Hadu, ne će te prijazno primiti znajući, da si pokušao,
+                    da bi, koliko je do tebe, i nas upropastio. Nego neka te ne <milestone
+                        unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:54d"
+                    />nagovori Kriton, da činiš ono, što on govori, već ono što mi govorimo!“</p>
+                <p> Ovo, dragi Kritone, čini mi se da slušam kao što pomamni glazbu; i
+                    ovaj zvek ovih govora zveči u meni pa zato ne mogu slušati drugih. Nego znaj,
+                    koliko se bar sada meni čini, ako ti što protiv toga govoriš, govorit ćeš
+                    uzalud. No opet, ako misliš, da ćeš nekako uspjeti, govori!</p>
+                <p><hi rend="italic">Kriton</hi>. Ne, Sokrate, ja nemam što da
+                    govorim.</p>
+                <milestone unit="section" corresp="urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:54e"/>
+                <p><hi rend="italic">Sokrat</hi>. Puštaj dakle, Kritone, da radimo
+                    ovako, kad bog ovako upućuje!</p>
+                <byline>(Preveo St. Senc.)</byline>
+            </div>
+        </body>
+    </text>
+</TEI>
