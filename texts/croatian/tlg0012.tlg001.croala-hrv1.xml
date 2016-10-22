@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-     <fileDesc xml:id="homer-ilijada-maretic">
+     <fileDesc xml:id="tlg0012.tlg001.croala-hrv1">
          <titleStmt>
             <title>Homer, Ilijada (prev. Tomo Maretić, 1882), elektronska verzija</title>
             <author>
@@ -42,7 +42,7 @@
          </change>
       </revisionDesc>
   </teiHeader>
-   <text xml:base="urn:cts:croala:tlg0012.tlg001.perseus-hrv1" xml:lang="hrv" corresp="http://data.perseus.org/texts/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+   <text xml:base="urn:cts:croala:tlg0012.tlg001.croala-hrv1" xml:lang="hrv" corresp="http://data.perseus.org/texts/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
      <front n="front">
         <titlePage n="titlePage">
            <docAuthor n="docAuthor">Homer</docAuthor>
